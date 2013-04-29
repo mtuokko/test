@@ -1,7 +1,8 @@
-test
-====
+oma2 mod
+oma2 mod2
 
 MT: muokattu oma-branchissa
 MT: modi 2
 
-test git commands
+test git ---
+oma2 mod3

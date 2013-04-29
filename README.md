@@ -7,3 +7,4 @@ MT: modi 2
 
 test git ---
 oma2 mod3
+oma2: vika muutos
